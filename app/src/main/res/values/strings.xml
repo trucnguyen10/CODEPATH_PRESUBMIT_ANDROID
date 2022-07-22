@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CODEPATHPRESUBMIT</string>
+    <string name="intro">Hello! My name is Truc and I am from Vietnam</string>
+    <string name="button_text">Yo Hello</string>
+</resources>
