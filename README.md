@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='https://imgur.com/a/r4BWkge' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/P704joJy6Wcw2DMPlP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ADOBE.  
